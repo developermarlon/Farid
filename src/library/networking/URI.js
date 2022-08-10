@@ -1,4 +1,5 @@
 export const END_POINT = 'https://appaunap.gcsof.com/api';
+export const API = 'http://68.183.50.234:12345';
 export const PORT = null;
 /**
  * GET

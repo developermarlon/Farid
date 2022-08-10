@@ -1,6 +1,6 @@
 {
   "idForm": 1,
-  "endpoint": "/arrivals/save",
+  "endpoint": "/api/zarpes/save",
   "questions": [
     {
       "cons": 1,
@@ -9,7 +9,7 @@
       "value": "VALOR_ASIGNADO_POR_USUARIO",
       "placeHolder": "PLACE HOLDER INPUT",
       "data": null,
-      "key": "tsdfsdfn"
+      "key": "pruebaPesquería"
     },
     {
       "cons": 2,
@@ -202,7 +202,7 @@
       "value": "VALOR_ASIGNADO_POR_USUARIO",
       "placeHolder": "PLACE HOLDER INPUT",
       "data": null,
-      "key": "radiollamada_internacional"
+      "key": "radioCall"
     },
     {
       "cons": 15,

@@ -14,10 +14,10 @@ import Question from "library/components/Question";
 import StepIndicator from "library/components/StepIndicator";
 import FormExecuteLoad from "library/components/Loading/FormExecute";
 import { ReactReduxContext } from 'react-redux';
-import { END_POINT } from 'library/networking/URI';
+import { END_POINT, API } from 'library/networking/URI';
 import { restoreForm } from '../../library/redux/actions/formAction'
 
-export default (({ route }) => {
+export default (({ route, navigation }) => {
   const { store } = useContext(ReactReduxContext)
   // const aceEditorRef = useRef();
   let aceEditorRef = React.createRef();
@@ -27,10 +27,10 @@ export default (({ route }) => {
   const [activeStep, setActiveStep] = useState(0);
 
   const sendRequest = async () => {
-    console.log(`${END_POINT}${file.endpoint}`)
+    console.log(`${API}${file.endpoint}`)
     console.log(store.getState().formReducer[route.params.data.idForm])
     try {
-      const response = await fetch(`${END_POINT}${file.endpoint}`, {
+      const response = await fetch(`${API}${file.endpoint}`, {
         method: "POST",
         mode: "cors",
         cache: "no-cache",
@@ -54,7 +54,7 @@ export default (({ route }) => {
     }
   }
 
-  const Paint = ({ data }) => {
+  const Paint = ({ data, navigation }) => {
     switch (data.type) {
       case 1:
         return useMemo(() => <Question.Type_1 data={data} />, [data]);
