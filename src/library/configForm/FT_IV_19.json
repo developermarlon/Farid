@@ -1,0 +1,78 @@
+{
+  "idForm": 5,
+  "endpoint": "/api/example",
+  "questions": [
+    {
+      "cons": 1,
+      "type": 1,
+      "title": "NOMBRE DEL BARCO",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "nombre_barco"
+    },
+    {
+      "cons": 2,
+      "type": 1,
+      "title": "BANDERA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "bandera"
+    },
+    {
+      "cons": 3,
+      "type": 1,
+      "title": "No CRUCERO/RSA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "no_crucero"
+    },
+    {
+      "cons": 4,
+      "type": 1,
+      "title": "NOMBRE PESCADOR",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "nombre_pescador"
+    },
+    {
+      "cons": 5,
+      "type": 4,
+      "title": "FECHA ZARPE",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "fecha_zarpe"
+    },
+    {
+      "cons": 6,
+      "type": 4,
+      "title": "FECHA DESEMBARQUE",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "fecha_desembarque"
+    },
+    {
+      "cons": 7,
+      "type": 1,
+      "title": "NOMBRE CAPITÁN",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "nombre_capitan"
+    },
+    {
+      "cons": 8,
+      "type": 18,
+      "title": "Subir imagen",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "imagen"
+    }
+  ]
+}

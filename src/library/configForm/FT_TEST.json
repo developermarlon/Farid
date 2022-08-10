@@ -1,0 +1,20 @@
+{
+  "idForm": 6,
+  "endpoint": "/api/example",
+  "questions": [
+    {
+      "cons": 1,
+      "type": 12,
+      "title": "CAPTURA OBJETIVO",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": [
+        { "id": 1, "title": "NOMBRE COMÚN", "value": null },
+        { "id": 2, "title": "NOMBRE CIENTÍFICO", "value": null },
+        { "id": 3, "title": "CAPTURA - TON.", "value": null },
+        { "id": 4, "title": "remove", "value": null }
+      ],
+      "key": "captura_objetivo"
+    }
+  ]
+}

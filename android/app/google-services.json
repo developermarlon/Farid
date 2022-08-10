@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "350902759365",
+    "project_id": "altosentido-aunap",
+    "storage_bucket": "altosentido-aunap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350902759365:android:b7854525e1db589152e5ac",
+        "android_client_info": {
+          "package_name": "altosentido.aunap.guia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350902759365-a7aqclv42utjka8eejc18eooj5f3qnbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "altosentido.aunap.guia",
+            "certificate_hash": "ece2e94cfeccee14913e634a61e3ffbfcf6087cd"
+          }
+        },
+        {
+          "client_id": "350902759365-qbt1sr0ccq2fgev08kslmblip31kls53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxoa5ZI6GXouCrnfyaddW-GuySztN2tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350902759365-qbt1sr0ccq2fgev08kslmblip31kls53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350902759365-t9bkir55h3s1bah6p8jb7tliv0egca4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "altosentido.aunap.guia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

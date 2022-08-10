@@ -1,0 +1,15 @@
+{
+    "idForm": 9,
+    "endpoint": "/api/example",
+    "questions": [
+    {   
+        "cons": 1,
+        "type": 1,
+        "title": "Nombre",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "nombre"
+    }
+    ]
+}

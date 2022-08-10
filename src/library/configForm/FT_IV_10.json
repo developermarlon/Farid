@@ -1,0 +1,182 @@
+{
+    "idForm": 18,
+    "endpoint": "/api/example",
+    "questions": [
+{   
+    "type": 4,
+    "title": "Seleccione Fecha",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "fecha"
+},
+{   
+    "type": 3,
+    "title": "Empresa",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "empresa"
+},
+{   
+    "type": 1,
+    "title": "Nombre de Embarcación",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "nombre_embarcacion"
+},
+{   
+    "type": 3,
+    "title": "Bandera",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "bandera"
+},
+{   
+    "type": 8,
+    "title": "CERTIFICA",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "certifica"
+},
+{   
+    "type": 4,
+    "title": "Fecha Inicio de Faena",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "fecha_inicio_faena"
+},
+{   
+    "type": 4,
+    "title": "Fecha Fin de Faena",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "fecha_fin_faena"
+},
+{   
+    "type": 1,
+    "title": "Zona de Pesca",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "zona_pesca"
+},
+{   
+    "type": 3,
+    "title": "Puerto de Desembarque",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "puerto_desembarque"
+},
+{   
+    "type": 1,
+    "title": "Aleta Amarilla - YFT (Kg.)",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "aleta_amarilla"
+},
+{   
+    "type": 3,
+    "title": "Clasificación en Libras Aleta Amarrilla",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": [
+        { "id": 1, "title": "Menos de 3", "value": null },
+        { "id": 2, "title": "De 3 a 6", "value": null },
+        { "id": 3, "title": "De 7 a 20", "value": null },
+        { "id": 4, "title": "De 21 a 30", "value": null },
+        { "id": 5, "title": "Mas de 30", "value": null }
+      ],
+      "key": "clasificacion_libras"
+},
+{   
+    "type": 1,
+    "title": "Barrilete - SKJ (Kg.)",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "barrilete"
+},
+{   
+    "type": 3,
+    "title": "Clasificacion en Libras Barrilete",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": [
+        { "id": 1, "title": "Menos de 3", "value": null },
+        { "id": 2, "title": "De 3 a 6", "value": null },
+        { "id": 3, "title": "De 7 a 20", "value": null },
+        { "id": 4, "title": "De 21 a 30", "value": null },
+        { "id": 5, "title": "Mas de 30", "value": null }
+      ],
+      "key": "clasificacion_libras_barrilete"
+},
+{   
+    "type": 1,
+    "title": "Patudo - BET (Kg.)",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "patudo"
+},
+{   
+    "type": 3,
+    "title": "Clasificacion en Libras Patudo",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": [
+        { "id": 1, "title": "Menos de 3", "value": null },
+        { "id": 2, "title": "De 3 a 6", "value": null },
+        { "id": 3, "title": "De 7 a 20", "value": null },
+        { "id": 4, "title": "De 21 a 30", "value": null },
+        { "id": 5, "title": "Mas de 30", "value": null }
+      ],
+      "key": "clasificacion_libras_patudo"
+},
+{   
+    "type": 1,
+    "title": "Otro",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "otro"
+},
+{   
+    "type": 3,
+    "title": "Clasificacion en Libras Otro",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": [
+        { "id": 1, "title": "Menos de 3", "value": null },
+        { "id": 2, "title": "De 3 a 6", "value": null },
+        { "id": 3, "title": "De 7 a 20", "value": null },
+        { "id": 4, "title": "De 21 a 30", "value": null },
+        { "id": 5, "title": "Mas de 30", "value": null }
+      ],
+      "key": "clasificacion_libras_otro"
+},
+{
+    "type": 11,
+    "title": "Observaciones",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "observaciones"
+  },
+  {   
+    "type": 1,
+    "title": "Nombre Funcionario",
+    "value": "VALOR_ASIGNADO_POR_USUARIO",
+    "placeHolder": "PLACE HOLDER INPUT",
+    "data": null,
+    "key": "nombre_funcionario"
+}
+    ]
+}

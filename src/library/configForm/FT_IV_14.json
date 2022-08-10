@@ -1,0 +1,204 @@
+{
+  "idForm": 3,
+  "endpoint": "/api/example",
+  "questions": [
+    { 
+      "cons": 1,
+      "type": 4,
+      "title": "FECHA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "fecha"
+    },
+    { 
+      "cons": 2,
+      "type": 1,
+      "title": "REGIONAL",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "regional"
+    },
+    { 
+      "cons": 3,
+      "type": 1,
+      "title": "OFICINA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "oficina"
+    },
+    {
+      "cons": 4,
+      "type": 1,
+      "title": "FUNCIONARIO",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "funcionario1"
+    },
+    {
+      "cons": 5,
+      "type": 1,
+      "title": "EMBARCACIÓN",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "embarcacion"
+    },
+    {
+      "cons": 6,
+      "type": 1,
+      "title": "MATRÍCULA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "matricula"
+    },
+    {
+      "cons": 7,
+      "type": 1,
+      "title": "PESQUERÍA AUTORIZADA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "pesqueria_autorizada"
+    },
+    {
+      "cons": 8,
+      "type": 1,
+      "title": "PATENTE DE PESCA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "patente_pesca"
+    },
+    {
+      "cons": 9,
+      "type": 1,
+      "title": "EMPRESA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "empresa2"
+    },
+    {
+      "cons": 10,
+      "type": 1,
+      "title": "ARMADOR",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "armador"
+    },
+    {
+      "cons": 11,
+      "type": 1,
+      "title": "CAPITÁN DE PESCA",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "capitan_pesca"
+    },
+    {
+      "cons": 12,
+      "type": 1,
+      "title": "LOCALIZACIÓN",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "localizacion"
+    },
+    {
+      "cons": 13,
+      "type": 17,
+      "title": "Punto A",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "Babor 1",
+      "data": null,
+      "img":1,
+      "key": "punto_a"
+    },
+    {
+      "cons": 14,
+      "type": 17,
+      "title": "Punto B",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "img":1,
+      "key": "punto_b"
+    },
+    {
+      "cons": 15,
+      "type": 17,
+      "title": "Punto C",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "img":0,
+      "key": "punto_c"
+    },
+    {
+      "cons": 16,
+      "type": 17,
+      "title": "Punto D",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "img":0,
+      "key": "punto_d"
+    },
+    {
+      "cons": 17,
+      "type": 17,
+      "title": "Punto E",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "img":0,
+      "key": "punto_e"
+    },
+    {
+      "cons": 18,
+      "type": 17,
+      "title": "Punto F",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "img":3,
+      "key": "punto_f"
+    },
+    {
+      "cons": 19,
+      "type": 17,
+      "title": "Punto G",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "img":3,
+      "key": "punto_g"
+    },
+    {
+      "cons": 20,
+      "type": 17,
+      "title": "Punto H",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "img":3,
+      "key": "punto_h"
+    },
+    {
+      "cons": 21,
+      "type": 18,
+      "title": "Subir imagen",
+      "value": "VALOR_ASIGNADO_POR_USUARIO",
+      "placeHolder": "PLACE HOLDER INPUT",
+      "data": null,
+      "key": "imagen"
+    }
+
+  ]
+}

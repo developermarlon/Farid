@@ -1,0 +1,255 @@
+{
+    "idForm": 16,
+    "endpoint": "/api/example",
+    "questions":  [
+          {
+            "type": 2,
+            "title": "No. Acta",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "no_acta"
+          },
+          {
+            "type": 3,
+            "title": "Regional",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": [
+              { "id": 1, "title": "Caribe", "value": null },
+              { "id": 2, "title": "Pasifico", "value": null }
+            ],
+            "key": "regional"
+          },
+          {
+            "type": 1,
+            "title": "Departamento",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "departamento"
+          },
+          {
+            "type": 1,
+            "title": "Municipio",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "municipio"
+          },
+          {
+            "type": 16,
+            "title": "",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": 
+        [ { "id": 1, "title": "NOMBRE CIENTÍFICO", "value": null },
+        { "id": 2, "title": "NOMBRE COMÚN", "value": null },
+        { "id": 3, "title": "ESTADO", "value": null },
+        { "id": 4, "title": "PRESENTACION", "value": null },
+        { "id": 5, "title": "CANTIDAD (Un)", "value": null },
+        { "id": 6, "title": "PROMEDIO TALLA (Cm)", "value": null },
+        { "id": 7, "title": "PESO (Kg)", "value": null },
+        { "id": 8, "title": "VALOR COMERCIAL", "value": null },
+        { "id": 9, "title": "remove", "value": null }
+        ],
+        "key": "valor_asignado_usuario"
+          },
+          {
+            "type": 16,
+            "title": "",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": 
+          [ { "id": 1, "title": "Elemento", "value": null },
+          { "id": 2, "title": "Cantidad (Un)", "value": null },
+          { "id": 3, "title": "Caracteristicas Y Estado", "value": null },
+          { "id": 4, "title": "Valor Comercial", "value": null },
+          { "id": 5, "title": "remove", "value": null }
+          ],
+          "key": "valor_asignado_usuario_2"
+          },
+          {
+            "type": 8,
+            "title": "MOTIVOS DEL DECOMISO PREVENTIVO",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "motivos_del_decomiso"
+          },
+          {
+            "type": 3,
+            "title": "MOTIVOS DEL DECOMISO PREVENTIVO",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": [ 
+              { "id": 7, "title": "Sin Permiso", "value": null },
+              { "id": 8, "title": "Sin patente", "value": null },
+              { "id": 9, "title": "Sin salvoconducto", "value": null },
+              { "id": 10, "title": "Documentos adulterados", "value": null },
+             
+              { "id": 1, "title": "Especie en época de veda", "value": null },
+              { "id": 2, "title": "Especie no autorizada", "value": null },
+              { "id": 3, "title": " Incumplimiento tallas minimas", "value": null },
+              { "id": 4, "title": "Artes de pesca no autorizadas", "value": null },
+              { "id": 5, "title": "Pesca áreas no autorizadas", "value": null },
+              { "id": 6, "title": "Malas practicas de pesca", "value": null }
+               
+            ],
+            "key": "motivos_del_decomiso_preventivo"
+          },
+          {
+            "type": 11,
+            "title": "Los recursos, productos pesqueros y/o elementos fueron decomisados cuando se encontraban en (describa la situación:)",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "recursos_productos"
+          },
+          {
+            "type": 9,
+            "title": "Para constancia se firma la presente acta por cada uno de los que intervienen en el decomiso preventivo.",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "constancia_firma"
+          },
+          {
+            "type": 4,
+            "title": "Seleccione Fecha",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "seleccion_fecha"
+          },
+          {
+            "type": 1,
+            "title": "Nombre Funcionario AUNAP",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "funcionario_uanap"
+          },
+          {
+            "type": 2,
+            "title": "Documento de Identidad",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "documento_identidad"
+          },
+          {
+            "type": 1,
+            "title": "Nombre Representante Autoridad Acompañante",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "nombre_representante"
+          },
+          {
+            "type": 2,
+            "title": "Documento de Identidad",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "documento_identidad2"
+          },
+          {
+            "type": 1,
+            "title": "No. Placa o Cedula",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "no_placa"
+          },
+          {
+            "type": 8,
+            "title": "DATOS DEL PRESUNTO INFRACTOR",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "datos_presunto_infractor"
+          },
+          {
+            "type": 4,
+            "title": "Fecha de Expedición C.C.",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "fecha_expedicion"
+          },
+          {
+            "type": 1,
+            "title": "Lugar de Expedición C.C.",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "lugar_expedicion"
+          },
+          {
+            "type": 1,
+            "title": "Dirrección de Domicilio",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "direccion_domicilio"
+          },
+          {
+            "type": 1,
+            "title": "Municipio",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "municipio2"
+          },
+          {
+            "type": 1,
+            "title": "Corregimiento",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "corregimiento"
+          },
+          {
+            "type": 1,
+            "title": "Vereda",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "vereda2"
+          },
+          {
+            "type": 1,
+            "title": "Teléfono",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "telefono"
+          },
+          {
+            "type": 1,
+            "title": "Celular",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "celular"
+          },
+          {
+            "type": 1,
+            "title": "Correo Electrónico",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "correo_electronico"
+          },
+          {
+            "type": 11,
+            "title": "Observaciones",
+            "value": "VALOR_ASIGNADO_POR_USUARIO",
+            "placeHolder": "PLACE HOLDER INPUT",
+            "data": null,
+            "key": "observaciones"
+          }
+
+  ]
+}

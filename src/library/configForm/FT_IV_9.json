@@ -1,0 +1,180 @@
+{
+"idForm": 17,
+"endpoint": "/api/example",
+"questions":  [
+    
+      {
+        "type": 9,
+        "title": "En operativo de control desarrollado, el suscrito servidor público de la AUNAP, procedío a efectuar el decomiso preventivo de los recursos y/o productos pesqueros que a continuación se relacionan, por no cumplir con las disposiciones establecidas por la Autoridad Nacional de Pesca y Aculcultura - AUNAP, Por tratarse de productos altamente perecederos y que no pueden ser comercializados, se procede a la donación de los mismos, en presencia de la autoridad competente.",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "operativo_control"
+      },
+      {
+        "type": 2,
+        "title": "No. Acta",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "no_acta"
+      },
+      {
+        "type": 3,
+        "title": "Regional",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": [
+          { "id": 1, "title": "Caribe", "value": null },
+          { "id": 2, "title": "Pacfico", "value": null }
+        ],
+        "key": "regional"
+      },
+      {
+        "type": 16,
+        "title": "",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": 
+    [ { "id": 1, "title": "NOMBRE CIENTÍFICO", "value": null },
+    { "id": 2, "title": "NOMBRE COMÚN", "value": null },
+    { "id": 3, "title": "ESTADO", "value": null },
+    { "id": 4, "title": "PRESENTACION", "value": null },
+    { "id": 5, "title": "CANTIDAD (Un)", "value": null },
+    { "id": 6, "title": "PROMEDIO TALLA (Cm)", "value": null },
+    { "id": 7, "title": "PESO (Kg)", "value": null },
+    { "id": 8, "title": "VALOR COMERCIAL", "value": null },
+    { "id": 9, "title": "FOTOS", "value": null },
+    { "id": 10, "title": "remove", "value": null }
+    ],
+    "key": "valor_asignado_usuario"
+      },
+      {
+        "type": 4,
+        "title": "Seleccionar Fecha",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "fecha"
+      },
+      {
+        "type": 1,
+        "title": "Nombre Funcionario AUNAP",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "funcionario_aunap"
+      },
+      {
+        "type": 2,
+        "title": "Documento de Identidad",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "documento_identidad"
+      },
+      {
+        "type": 1,
+        "title": "Nombre Representante Autoridad Acompañante",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "nombre_representante"
+      },
+      {
+        "type": 2,
+        "title": "Documento de Identidad",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "documento_identidad2"
+      },
+      {
+        "type": 1,
+        "title": "No. Placa o Cedula",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "placa_cedula"
+      },
+      {
+        "type": 8,
+        "title": "DATOS DE LA INSTITUCIÓN QUE RECIBE LA DONACIÓN",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "datos_inscripcion"
+      },
+      {
+        "type": 1,
+        "title": "Nombre",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "nombre2"
+      },
+      {
+        "type": 1,
+        "title": "Personería Juridica",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "personeria_juridica"
+      },
+      {
+        "type": 1,
+        "title": "Dirreción",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "direccion"
+      },
+      {
+        "type": 1,
+        "title": "Representante Legal",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null
+      },
+      {
+        "type": 2,
+        "title": "C.C.",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "cc"
+      },
+      {
+        "type": 1,
+        "title": "NMunicipio",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "n_municipio"
+      },
+      {
+        "type": 1,
+        "title": "Corregimiento",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "corregimiento"
+      },
+      {
+        "type": 1,
+        "title": "Vereda",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "vereda"
+      },
+      {
+        "type": 1,
+        "title": "Teléfono",
+        "value": "VALOR_ASIGNADO_POR_USUARIO",
+        "placeHolder": "PLACE HOLDER INPUT",
+        "data": null,
+        "key": "telefono"
+      }
+    ]    
+}
