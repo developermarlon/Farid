@@ -1,6 +1,6 @@
 {
   "idForm": 2,
-  "endpoint": "/api/example",
+  "endpoint": "/api/arrivals/save",
   "questions": [
     {
       "cons": 1,
@@ -9,7 +9,7 @@
       "value": "VALOR_ASIGNADO_POR_USUARIO",
       "placeHolder": "PLACE HOLDER INPUT",
       "data": null,
-      "key": "no_inspeccion"
+      "key": "insNo"
     },
     {
       "cons": 2,
